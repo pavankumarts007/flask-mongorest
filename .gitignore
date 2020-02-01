@@ -30,4 +30,5 @@ pip-log.txt
 #sphinx docs
 docs/_build
 
-venv
+env
+settings.py
